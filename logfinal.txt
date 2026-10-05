@@ -1,0 +1,19 @@
+
+[26-10-05 00:49:00] [Exit hotkey pressed]
+
+                           Total keystrokes: 1
+
+                           Active runtime: 00:00:04
+
+                           Words per minute: 2.86
+
+                           Backspace errors: 0.0
+
+
+[26-10-05 00:49:54] [Exit hotkey pressed]
+
+                           Total keystrokes: 1
+                           Active runtime: 00:00:01
+                           Words per minute: 6.18
+                           Backspace errors: 0.0
+
